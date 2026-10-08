@@ -48,17 +48,19 @@
 ### Statistik GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ibnuzb31/ibnuzb31/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="Statistik GitHub" />
-  <img src="https://raw.githubusercontent.com/ibnuzb31/ibnuzb31/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="180" alt="Bahasa pemrograman yang digunakan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnuzb31&show_icons=true&theme=swift&hide_border=true" height="165" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnuzb31&layout=compact&langs_count=6&theme=swift&hide_border=true" height="165" alt="Bahasa pemrograman yang digunakan" />
 </div>
 
 ### Aktivitas Kontribusi
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibnuzb31/ibnuzb31/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibnuzb31/ibnuzb31/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="Animasi kontribusi GitHub" src="https://raw.githubusercontent.com/ibnuzb31/ibnuzb31/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<p align="center">
+  <img src="https://ghchart.rshah.org/ibnuzb31" alt="Grafik kontribusi GitHub tahunan" />
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ibnuzb31&theme=swift&hide_border=true" height="165" alt="Rangkaian kontribusi GitHub" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&theme=gruvbox_light" alt="Footer animasi" />
