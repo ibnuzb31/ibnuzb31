@@ -1,5 +1,7 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZxaGFiNjR4czBicXdkODU4ZzR4cmc3Nm1wdG0ybTAxajI0Nm84ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/li7H27JwLTBxeeXgJ8/giphy.gif"  />
+<div data-importer="image" align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZxaGFiNjR4czBicXdkODU4ZzR4cmc3Nm1wdG0ybTAxajI0Nm84ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/li7H27JwLTBxeeXgJ8/giphy.gif" alt="Animasi pertama" />
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJqbzE4OXhrN2kxb2duNGMyMjNzZzU5amlzeGs2dHZiYjI2M2Y5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/evTqgQ8kjkef4u8vYF/giphy.gif" alt="Animasi kedua" />
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI5NWJibGc1YXM4dWlwY3FvdHd0aHM1MDhtdGczdnFlOWkwZGRxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nHHgfWgGs9EMl6cKo9/giphy.gif" alt="Animasi ketiga" />
 </div>
 
 ###
